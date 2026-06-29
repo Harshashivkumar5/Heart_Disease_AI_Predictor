@@ -102,5 +102,3 @@ Enter patient details in the form and get an instant heart disease risk predicti
 ## Domain
 Healthcare — Cardiovascular Disease Prediction
 
-## Author
-PRCP-1016 Capstone Project
