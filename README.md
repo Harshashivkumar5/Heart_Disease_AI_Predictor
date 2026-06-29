@@ -1,4 +1,4 @@
-# Heart Disease AI System — PRCP-1016
+# Heart Disease AI Predictor
 
 A complete end-to-end Machine Learning system to predict heart disease using clinical patient data.
 
