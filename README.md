@@ -102,3 +102,9 @@ Enter patient details in the form and get an instant heart disease risk predicti
 ## Domain
 Healthcare — Cardiovascular Disease Prediction
 
+## Output
+<img width="1157" height="916" alt="Screenshot 2026-06-29 153352" src="https://github.com/user-attachments/assets/b17f9440-6430-4c67-89bc-3489c6911887" />
+
+<img width="1185" height="843" alt="Screenshot 2026-06-29 153421" src="https://github.com/user-attachments/assets/a90b800a-0ec7-4bf1-8250-c09de4fd2576" />
+
+
